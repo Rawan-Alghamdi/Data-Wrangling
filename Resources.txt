@@ -1,0 +1,28 @@
+
+The Resources I Have Used To Complete This Project:
+
+
+1.Data Gathering
+
+https://github.com/MrGeislinger/UdacityDAND_Proj_WrangleAndAnalyzeData/blob/master/wrangle_act.ipynb
+
+2- Data Assessment & Cleaning 
+
+https://github.com/RedRock42/Udacity-Nanodegree-Portfolio/tree/master/P4.Wrangling%20%26%20Analyzing%20Twitter%20Data
+
+https://github.com/sanjeevai/Wrangle_and_Analyze_data
+
+https://github.com/MrGeislinger/UdacityDAND_Proj_WrangleAndAnalyzeData
+
+https://github.com/latinacode/Wrangle-and-Analyze-Data
+
+https://github.com/ursulahneumann/Wrangle-and-Analyze-Data
+
+
+3- Plotting bar graph
+
+https://stackoverflow.com/questions/29498652/plot-bar-graph-from-pandas-dataframe
+
+
+
+
